@@ -62,11 +62,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Contract\IMongoCSharpDriver.cs" />
+    <Compile Include="Entities\BaseEntity.cs" />
     <Compile Include="Entities\FilterParamter.cs" />
     <Compile Include="Entities\PagedList.cs" />
     <Compile Include="Entities\PagingInfo.cs" />
     <Compile Include="Entities\SearchValue.cs" />
     <Compile Include="Entities\SortingInfo.cs" />
+    <Compile Include="IdGenerator\DefaultTimeSource.cs" />
+    <Compile Include="IdGenerator\IdGenerator.cs" />
+    <Compile Include="IdGenerator\InvalidSystemClockException.cs" />
+    <Compile Include="IdGenerator\MaskConfig.cs" />
+    <Compile Include="IdGenerator\SequenceOverflowException.cs" />
     <Compile Include="MongoConfig\MongoConfig.cs" />
     <Compile Include="MongoDriver\MongoCSharpDriver.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

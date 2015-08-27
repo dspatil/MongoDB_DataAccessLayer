@@ -16,3 +16,21 @@ c:\users\dpatil\documents\visual studio 2012\Projects\MongoDataAccessAdapter\Mon
 c:\users\dpatil\documents\visual studio 2012\Projects\MongoDataAccessAdapter\MongoDataAccessAdapter\bin\Debug\Microsoft.Practices.Unity.xml
 c:\users\dpatil\documents\visual studio 2012\Projects\MongoDataAccessAdapter\MongoDataAccessAdapter\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
 c:\users\dpatil\documents\visual studio 2012\Projects\MongoDataAccessAdapter\MongoDataAccessAdapter\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\GIT Repositories\Self\Mongo_Persistance_Layer\MongoDataAccessAdapter\MongoDataAccessAdapter\bin\Debug\MongoDataAccessAdapter.dll.config
+E:\GIT Repositories\Self\Mongo_Persistance_Layer\MongoDataAccessAdapter\MongoDataAccessAdapter\bin\Debug\MongoDataAccessAdapter.dll
+E:\GIT Repositories\Self\Mongo_Persistance_Layer\MongoDataAccessAdapter\MongoDataAccessAdapter\bin\Debug\MongoDataAccessAdapter.pdb
+E:\GIT Repositories\Self\Mongo_Persistance_Layer\MongoDataAccessAdapter\MongoDataAccessAdapter\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\GIT Repositories\Self\Mongo_Persistance_Layer\MongoDataAccessAdapter\MongoDataAccessAdapter\bin\Debug\Microsoft.Practices.Unity.dll
+E:\GIT Repositories\Self\Mongo_Persistance_Layer\MongoDataAccessAdapter\MongoDataAccessAdapter\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\GIT Repositories\Self\Mongo_Persistance_Layer\MongoDataAccessAdapter\MongoDataAccessAdapter\bin\Debug\MongoDB.Bson.dll
+E:\GIT Repositories\Self\Mongo_Persistance_Layer\MongoDataAccessAdapter\MongoDataAccessAdapter\bin\Debug\MongoDB.Driver.Core.dll
+E:\GIT Repositories\Self\Mongo_Persistance_Layer\MongoDataAccessAdapter\MongoDataAccessAdapter\bin\Debug\MongoDB.Driver.dll
+E:\GIT Repositories\Self\Mongo_Persistance_Layer\MongoDataAccessAdapter\MongoDataAccessAdapter\bin\Debug\MongoDB.Driver.Legacy.dll
+E:\GIT Repositories\Self\Mongo_Persistance_Layer\MongoDataAccessAdapter\MongoDataAccessAdapter\bin\Debug\Microsoft.Practices.Unity.xml
+E:\GIT Repositories\Self\Mongo_Persistance_Layer\MongoDataAccessAdapter\MongoDataAccessAdapter\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\GIT Repositories\Self\Mongo_Persistance_Layer\MongoDataAccessAdapter\MongoDataAccessAdapter\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\GIT Repositories\Self\Mongo_Persistance_Layer\MongoDataAccessAdapter\MongoDataAccessAdapter\bin\Debug\MongoDB.Bson.xml
+E:\GIT Repositories\Self\Mongo_Persistance_Layer\MongoDataAccessAdapter\MongoDataAccessAdapter\bin\Debug\MongoDB.Driver.xml
+E:\GIT Repositories\Self\Mongo_Persistance_Layer\MongoDataAccessAdapter\MongoDataAccessAdapter\bin\Debug\MongoDB.Driver.Legacy.xml
+E:\GIT Repositories\Self\Mongo_Persistance_Layer\MongoDataAccessAdapter\MongoDataAccessAdapter\obj\Debug\MongoDataAccessAdapter.dll
+E:\GIT Repositories\Self\Mongo_Persistance_Layer\MongoDataAccessAdapter\MongoDataAccessAdapter\obj\Debug\MongoDataAccessAdapter.pdb
